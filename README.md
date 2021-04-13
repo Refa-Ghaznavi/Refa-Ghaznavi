@@ -22,6 +22,7 @@ Welcome to my **favorite** profile on the internet! 🌍
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Refa-Ghaznavi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+
   <span>---</span>
   <br>
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
