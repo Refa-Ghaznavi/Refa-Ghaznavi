@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 ### Hi there 👋
 :octocat:  
-Welcome to my profile on the GitHub! 🌍  
+Welcome to my profile on GitHub! 🌍  
 :telescope: Check out [what I have been recently working on](#js-contribution-activity)
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Refa-Ghaznavi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
