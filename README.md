@@ -22,6 +22,11 @@ Welcome to my profile on GitHub!
 
 
 
+![counter](https://en25zn2g8tlr37u.m.pipedream.net)  
+[![Most Active GitHub User in Afghasnitan Rank](https://en25zn2g8tlr37u.m.pipedream.net)](https://commits.top/afghanistan)  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Refa-Ghaznavi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+https://en25zn2g8tlr37u.m.pipedream.net
 
   <span>---</span>
   <br>
