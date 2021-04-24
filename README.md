@@ -42,7 +42,7 @@ Welcome to my profile on GitHub!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refa-Ghaznavi&layout=compact" align="center" />
 
-
+<br>
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=Refa-Ghaznavi" align="center" />
