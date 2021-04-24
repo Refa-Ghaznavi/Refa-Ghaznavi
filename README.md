@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 Welcome to my profile on GitHub!   
 :telescope: Check out [what I have been recently working on](#js-contribution-activity)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Refa-Ghaznavi.Refa-Ghaznavi) 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Refa-Ghaznavi&label=Profile%20views&color=0e75b6&style=flat" alt="Refa-Ghaznavi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Refa-Ghaznavi&label=Profile%20Views&color=0e75b6&style=flat" alt="Refa-Ghaznavi" /> </p>
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Refa-Ghaznavi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
