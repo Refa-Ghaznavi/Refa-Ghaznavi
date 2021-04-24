@@ -48,8 +48,6 @@ Welcome to my profile on GitHub!
 
 
 
-## Github Stats  
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refa-Ghaznavi&layout=compact" align="center" /></div>  
 
 <br/>
