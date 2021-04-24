@@ -27,7 +27,7 @@ Welcome to my profile on GitHub!
 
 
   
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>  
  
 
@@ -36,12 +36,12 @@ Welcome to my profile on GitHub!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refa-Ghaznavi&layout=compact" align="center" />
 
-<br/>
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=Refa-Ghaznavi" align="center" />
 
   <span>---</span>
-  <br>
+
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
   
 
