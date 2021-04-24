@@ -34,27 +34,24 @@ Welcome to my profile on GitHub!
 
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refa-Ghaznavi&layout=compact" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refa-Ghaznavi&layout=compact" align="center" />
 
 <br/>
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Refa-Ghaznavi" align="center" /></div> 
+<img src="https://github-profile-trophy.vercel.app/?username=Refa-Ghaznavi" align="center" />
 
   <span>---</span>
   <br>
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
   
-</div>
 
 
-<div align="center">
 ## Connect with me  
 <a href="https://linkedin.com/in/refa-ghaznavi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 </div>  
-</div>
 
 
 
