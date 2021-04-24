@@ -39,6 +39,18 @@ Welcome to my profile on GitHub!
 <br/> 
 
 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Refa-Ghaznavi&show_icons=true&count_private=true" align="center" /></div>  
+
+<br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refa-Ghaznavi&layout=compact" align="center" /></div>  
+
+<br/>
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Refa-Ghaznavi" align="center" /></div> 
+
   <span>---</span>
   <br>
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
